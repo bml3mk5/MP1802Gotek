@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "MyPinHeader")(type "KiCad")(uri "${KIPRJMOD}/MyPinHeader.pretty")(options "")(descr ""))
+  (lib (name "MySwitch")(type "KiCad")(uri "${KIPRJMOD}/MySwitch.pretty")(options "")(descr ""))
+  (lib (name "MyJack")(type "KiCad")(uri "${KIPRJMOD}/MyJack.pretty")(options "")(descr ""))
+)
