@@ -19,11 +19,12 @@
   (fp_line (start -2.93 0) (end -2.93 -4.71) (layer "F.SilkS") (width 0.12) (tstamp 08fc3f20-5213-4af7-a45c-5b5a7f6358a4))
   (fp_line (start 1.27 -4.71) (end 5.47 -4.71) (layer "F.SilkS") (width 0.12) (tstamp 13dc0125-784c-4f6d-86c3-eb10706d6468))
   (fp_line (start -2.93 -4.71) (end 0 -4.71) (layer "F.SilkS") (width 0.12) (tstamp 27c27352-4d55-4641-8809-a378dd95375b))
-  (fp_line (start -2.93 1.27) (end -2.93 45.89) (layer "F.SilkS") (width 0.12) (tstamp 5382fb7e-98c4-41b5-860b-932c96e59188))
+  (fp_line (start -2.93 24.13) (end -2.93 45.89) (layer "F.SilkS") (width 0.12) (tstamp 5382fb7e-98c4-41b5-860b-932c96e59188))
+  (fp_line (start -2.93 1.27) (end -2.93 19.05) (layer "F.SilkS") (width 0.12) (tstamp 5382fb7e-98c4-41b5-860b-932c96e59188))
   (fp_line (start -2.93 45.89) (end 5.47 45.89) (layer "F.SilkS") (width 0.12) (tstamp 5d0507ab-160b-4e1a-9e39-52559ec85233))
   (fp_line (start 1.27 1.27) (end 1.27 -4.71) (layer "F.SilkS") (width 0.12) (tstamp ab9b34c9-9d18-453e-9434-1a8a8a314084))
+  (fp_line (start 5.47 -4.71) (end 5.47 24.13) (layer "F.SilkS") (width 0.12) (tstamp c8bd2325-e9f3-438d-b3cc-3e2a29fa44ed))
   (fp_line (start 5.47 24.13) (end 5.47 45.89) (layer "F.SilkS") (width 0.12) (tstamp c8bd2325-e9f3-438d-b3cc-3e2a29fa44ed))
-  (fp_line (start 5.47 -4.71) (end 5.47 19.05) (layer "F.SilkS") (width 0.12) (tstamp c8bd2325-e9f3-438d-b3cc-3e2a29fa44ed))
   (fp_line (start -2.93 1.27) (end 1.27 1.27) (layer "F.SilkS") (width 0.12) (tstamp cdf547ce-2ffc-4af3-9b7f-e06d48b9fdfb))
   (fp_rect (start -2.93 -4.71) (end -1.93 -3.71) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 66609c24-36ef-444b-a764-50d350eb0cb8))
   (fp_line (start -3.23 46.19) (end 5.77 46.19) (layer "F.CrtYd") (width 0.05) (tstamp 04608e74-47dc-426f-8899-e17d06b54b15))
@@ -69,7 +70,7 @@
   (pad "32" thru_hole oval (at 2.54 38.1) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 91ce8cb0-7d3a-4de6-a114-dfbd9916f449))
   (pad "33" thru_hole oval (at 0 40.64) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp aa077d52-7994-4070-9f42-7fef68e840ef))
   (pad "34" thru_hole oval (at 2.54 40.64) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 816b1a02-664f-49d0-8b40-857c1a64bb2c))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x17_P2.54mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x17_P2.54mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
